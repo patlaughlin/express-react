@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5064c77-c750-4658-a220-4f7f29dbd421" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/react-practice-shell.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/merriweather-bold-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/merriweather-bold-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/merriweather-bold-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/merriweather-bold-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/merriweather-italic-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/merriweather-italic-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/merriweather-italic-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/merriweather-italic-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/merriweather-light-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/merriweather-light-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/merriweather-light-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/merriweather-light-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/merriweather-regular-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/merriweather-regular-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/merriweather-regular-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/merriweather-regular-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/sourcesanspro-bold-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/sourcesanspro-bold-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/sourcesanspro-bold-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/sourcesanspro-bold-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/sourcesanspro-italic-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/sourcesanspro-italic-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/sourcesanspro-italic-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/sourcesanspro-italic-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/sourcesanspro-light-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/sourcesanspro-light-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/sourcesanspro-light-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/sourcesanspro-light-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/sourcesanspro-regular-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/sourcesanspro-regular-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/sourcesanspro-regular-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/sourcesanspro-regular-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/alerts/error.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/alerts/error.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/alerts/info.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/alerts/info.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/alerts/success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/alerts/success.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/alerts/warning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/alerts/warning.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/angle-arrow-down-hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/angle-arrow-down-hover.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/angle-arrow-down-primary-hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/angle-arrow-down-primary-hover.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/angle-arrow-down-primary.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/angle-arrow-down-primary.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/angle-arrow-down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/angle-arrow-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/angle-arrow-up-primary-hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/angle-arrow-up-primary-hover.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/angle-arrow-up-primary.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/angle-arrow-up-primary.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/arrow-down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/arrow-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/arrow-right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/arrow-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/circle-124.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/close.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/correct8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/correct8.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/correct9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/correct9.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/external-link-alt-hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/external-link-alt-hover.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/external-link-alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/external-link-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/external-link-hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/external-link-hover.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/external-link.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/external-link.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/favicons/favicon-114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/favicons/favicon-144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/favicons/favicon-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/favicons/favicon-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/favicons/favicon-40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/favicons/favicon-57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/favicons/favicon-72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/favicons/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/favicons/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/hero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icon-dot-gov.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icon-https.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/logo-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/minus-alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/minus-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/minus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/minus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/plus-alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/plus-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/plus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/plus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/search-alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/search-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/social-icons/png/facebook25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/social-icons/png/rss25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/social-icons/png/twitter16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/social-icons/png/youtube15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/social-icons/svg/facebook25.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/social-icons/svg/rss25.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/social-icons/svg/twitter16.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/social-icons/svg/youtube15.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/us_flag_small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/uswds/uswd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Hero.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/HomePageContent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/lib/usdws/Grid.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/lib/usdws/OfficialSiteBanner.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/HomeContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/SignInContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/header.css" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Q4cPT62yDLcyOaxdpaBiWEO3ed" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/lib/usdws" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/lib/usdws" />
+      <recent name="$PROJECT_DIR$/src/assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/lib/usdws" />
+      <recent name="$PROJECT_DIR$/src/components/lib" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5064c77-c750-4658-a220-4f7f29dbd421" name="Default Changelist" comment="" />
+      <created>1567033284782</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567033284782</updated>
+      <workItem from="1567033286218" duration="2370000" />
+      <workItem from="1567092273568" duration="1552000" />
+      <workItem from="1567095156870" duration="140000" />
+      <workItem from="1567107592332" duration="8661000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
